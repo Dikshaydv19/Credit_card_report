@@ -47,6 +47,8 @@ Total revenue genreated by BLUE CARD is 46M
                          Top 3 states are TX(texas), NY(New york), CA(California)
                          Male customer are contributing more in revenue 31M, female 26M
                          Blue and Silver credit card are contributing to 93% of overall transcation
+
+link of live dashboard :- https://app.powerbi.com/groups/me/reports/5c7e8d43-ac35-4963-98d9-76b2f589d763/ReportSection440a938cd006335ec599?experience=power-bi
                        
 
 
